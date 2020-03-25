@@ -1,9 +1,10 @@
 # India-aginst-Corona
 Open source movement to develop software measures against corona virus\n\n
 
-do join the discord Channel : https://discord.gg/dKMEPPU \n
+do join the discord Channel : https://discord.gg/dKMEPPU
 
-{Author Yoshua Bengio ----  https://yoshuabengio.org/2020/03/23/peer-to-peer-ai-tracing-of-covid-19/ }\n\n
+{Author Yoshua Bengio ----  https://yoshuabengio.org/2020/03/23/peer-to-peer-ai-tracing-of-covid-19/ }
+
 Social distancing works but in its simplest form it is brutal and economically very damaging. We have already seen how tracing and testing can greatly improve it by applying social distancing at the right places, around infected people. Technology can help further. We need a social distancing approach that allows for our economies to re-start soon and be practiced easily for another 18-24 months, the probable time required for vaccine clinical trials and mass vaccination campaigns. At the same time, we want to avoid creating tools which can later be abused by governments and companies to track us and control us.
 
 
