@@ -1,14 +1,16 @@
 # India-aginst-Corona
-Open source movement to develop software measures against corona virus
+Open source movement to develop software measures against corona virus\n\n
 
-{Author Yoshua Bengio ----  https://yoshuabengio.org/2020/03/23/peer-to-peer-ai-tracing-of-covid-19/ }
+do join the discord Channel : https://discord.gg/dKMEPPU \n
+
+{Author Yoshua Bengio ----  https://yoshuabengio.org/2020/03/23/peer-to-peer-ai-tracing-of-covid-19/ }\n\n
 Social distancing works but in its simplest form it is brutal and economically very damaging. We have already seen how tracing and testing can greatly improve it by applying social distancing at the right places, around infected people. Technology can help further. We need a social distancing approach that allows for our economies to re-start soon and be practiced easily for another 18-24 months, the probable time required for vaccine clinical trials and mass vaccination campaigns. At the same time, we want to avoid creating tools which can later be abused by governments and companies to track us and control us.
 
 
 # The Idea:
 
-Imagine that an app in your phone would keep track of the probability that you are infected based on where you have been and the encounters you made and would share that risk information with people you encounter so their app could update their own risk estimation. 
-*We would also make an thermal scanner in the app which would monitor and update your risk status* ---- {this would require external thermal scanner hardware, for every device}
+Imagine that an app in your phone would keep track of the probability that you are infected based on where you have been and the encounters you made and would share that risk information with people you encounter so their app could update their own risk estimation.\n 
+*We would also make an thermal scanner in the app which would monitor and update your risk status* ---- {this would require external thermal scanner hardware, for every device}\n\n
 
 Imagine that when you encounter someone you would be able to tell how much risk of being infected they would carry, so you could choose to keep your distances or not let them enter your store, your house or your vehicle. Imagine that you would always be able to know your own risk level so that would make you more self-conscious of the risk you pose to others, inciting you to stay at home and wash your hands more often.
 
